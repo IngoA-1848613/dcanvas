@@ -1,0 +1,11 @@
+{
+  "name": "dcanvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IngoA-1848613/dcanvas",
+  "author": "ingoandelhofs <ingoandelhofs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}

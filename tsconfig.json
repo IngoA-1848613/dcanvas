@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es2015",
+
+    "outDir": "dist/",
+    "rootDir": "lib/",
+
+    "strict": true,
+
+    "skipLibCheck": true,
+
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "lib/"
+  ]
+}
