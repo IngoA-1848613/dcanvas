@@ -1,3 +1,5 @@
-import './lib.js';
+import DCanvas from "./classes/DCanvas.js";
 
-console.log("index.ts");
+
+const dCanvas = new DCanvas('d-canvas');
+console.log("Loaded");
